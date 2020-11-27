@@ -1,1 +1,1 @@
-# bootcamp-product-v1
+# bootcamp-products
